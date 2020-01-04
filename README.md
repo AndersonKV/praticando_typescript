@@ -1,4 +1,5 @@
 # praticando_typescript
-fazendo exercicios de typescript com utilizando, sucrase, express e mongoose
+fazendo exercicios de typescript com sucrase, express e mongoose
 
-basta da yarn add para instalar as dependencias
+basta da yarn add para instalar as dependencias e poder criar e buscar usuarios
+
